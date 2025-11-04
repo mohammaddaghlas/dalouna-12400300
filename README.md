@@ -6,7 +6,6 @@ Responsive one-page restaurant website built with pure HTML &amp; CSS. Follows t
 ### 🍽️ Dalouna — One-Page Restaurant Website
 
 **Dalouna** is a clean, responsive one-page restaurant website built using only **HTML and CSS**.
-It replicates the provided layout exactly as part of the *Al-Masar 101 Web Assignment*.
 The design highlights semantic structure, modern typography, and a flexible grid system using pure CSS.
 
 #### ✨ Features
