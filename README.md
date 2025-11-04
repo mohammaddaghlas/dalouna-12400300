@@ -26,7 +26,7 @@ dalouna/
 ├── index.html
 ├── style.css
 └── images/
-    ├── hero.jpg
+    ├── bg.jpg
     ├── map.jpg
     └── ... 
 
