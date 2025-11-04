@@ -40,10 +40,9 @@ Student at An-Najah National University
 📧 [mhmddghls30@gmail.com](mailto:mhmddghls30@gmail.com)
 📍 Nablus, Palestine
 
-#### 🧾 License
+#### 🏫 Academic Credit
 
-This project was created for educational purposes under the Al-Masar 101 web assignment guidelines.
-Feel free to reference or adapt it for learning.
+Taught by **Eng. Zeyad Habbab** at **An-Najah National University** for the **Web Development course**.
 
 ---
 
